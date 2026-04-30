@@ -7,4 +7,4 @@ I teach myself how to handle the messy data :)
 
 ### Data
 
-I explore the curatedMetagenomicData package to download the dataset of my choice.
+I explore the curatedMetagenomicData package to download the dataset of my choice - DavidLA_2015.
